@@ -1,0 +1,3 @@
+//Philippe Cranskens - student number - s1916118
+include ':app'
+rootProject.name = "EarthquakeCode-s1916118-PCranskens"
